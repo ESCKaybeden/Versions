@@ -1,1 +1,1 @@
-{"version":"1.1.0","news":"Fix: Character damage has been disabled - Update: Notification added, you can use this outside of multicharacter as well"}
+{"version":"1.2.0","news":"Issues with illenium-appearance have been resolved"}
