@@ -1,0 +1,1 @@
+{"version":"2.5.0","news":"It's impossible to fit all the new features here. Almost everything has been updated"}
