@@ -1,1 +1,1 @@
-{"version":"1.3.0","news":"Fix: The new character creation errors and joaat error for those not using qb-apartments have been fixed"}
+{"version":"1.4.0","news":"Language Update"}
