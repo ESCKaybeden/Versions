@@ -1,1 +1,1 @@
-{"version":"2.5.0","news":"It's impossible to fit all the new features here. Almost everything has been updated"}
+{"version":"2.3.0","news":"General bug fixes and code structure improvement"}
