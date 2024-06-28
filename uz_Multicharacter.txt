@@ -1,1 +1,1 @@
-{"version":"1.5.0","news":"code structure editing, changing character photos, etc."}
+{"version":"1.6.0","news":"Compatibility for tgiann-clothing has been added"}
