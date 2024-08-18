@@ -1,1 +1,1 @@
-{"version":"2.3.0","news":"General bug fixes and code structure improvement"}
+{"version":"2.4.0","news":"uz_core dependency added & Stress whitelist issue fixed"}
