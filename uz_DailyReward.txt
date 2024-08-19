@@ -1,1 +1,1 @@
-{"version":"1.1.0","news":"The code structure has been completely renewed and stabilized"}
+{"version":"1.2.0","news":"uz_core dependency added & Item quantity selection added"}
