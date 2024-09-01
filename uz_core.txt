@@ -1,1 +1,1 @@
-{"version":"0.3.0","news":"image path fixed"}
+{"version":"0.4.0","news":"inventory image detected fixed & uz_Multicharacter added"}
