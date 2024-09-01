@@ -1,1 +1,1 @@
-{"version":"1.8.0","news":"Logout and setchar commands have been added"}
+{"version":"1.6.0","news":"Language, command, uz_core(Apparance, framework, mysql, language, inventory)"}
