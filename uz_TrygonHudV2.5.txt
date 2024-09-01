@@ -1,1 +1,1 @@
-{"version":"2.4.0","news":"uz_core dependency added & Stress whitelist issue fixed"}
+{"version":"2.5.0","news":"uz_core fuel update"}
