@@ -1,1 +1,1 @@
-{"version":"0.4.0","news":"inventory image detected fixed & uz_Multicharacter added"}
+{"version":"0.5.0","news":"Language(uz_garage), Fuel(uz_TrygonHud, uz_garage), uz_garage added, qs-inventory inventory fixed"}
